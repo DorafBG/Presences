@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Doraf",
+    "id": "418760799226429441"
+  },
+  "service": "DraftBot",
+  "description": {
+    "en": "𝗗𝗿𝗮𝗳𝘁𝗕𝗼𝘁 est basé sur l’interaction des utilisateurs via les réactions. Ses fonctionnalités principales sont :
+    la musique, la modération, la gestion des rôles, des outils pratiques, des statistiques de jeu, des niveaux et la monnaie parmi tant d'autres commandes.",
+  },
+  "url": [
+    "draftbot.fr",
+  ],
+  "version": "1.0.0",
+  "logo": "https://www.draftbot.fr/images/logo.png",
+  "thumbnail": "https://pbs.twimg.com/profile_banners/796758802515324928/1577722396/1500x500",
+  "color": "#d8870a",
+  "tags": [
+    "bot",
+    "discord"
+  ],
+  "category": "other"
+}
